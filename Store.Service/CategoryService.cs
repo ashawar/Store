@@ -16,6 +16,7 @@ namespace Store.Service
         Category GetCategory(int id);
         Category GetCategory(string name);
         void CreateCategory(Category category);
+        void UpdateCategory(Category category);
         void SaveCategory();
     }
 
