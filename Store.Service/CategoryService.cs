@@ -63,6 +63,11 @@ namespace Store.Service
             unitOfWork.Commit();
         }
 
+        public void UpdateCategory(Category category)
+        {
+            throw new NotImplementedException();
+        }
+
         #endregion
     }
 }
