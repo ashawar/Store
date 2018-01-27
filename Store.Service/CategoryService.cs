@@ -65,7 +65,7 @@ namespace Store.Service
 
         public void UpdateCategory(Category category)
         {
-            throw new NotImplementedException();
+            categorysRepository.Update(category);
         }
 
         #endregion
