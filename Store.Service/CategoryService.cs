@@ -70,7 +70,8 @@ namespace Store.Service
         error
 
         // Feature 1
-        
+        // Feature 2
+
         #endregion
     }
 }
