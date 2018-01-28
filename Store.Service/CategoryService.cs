@@ -67,7 +67,8 @@ namespace Store.Service
         {
             categorysRepository.Update(category);
         }
-
+        
+        error
         #endregion
     }
 }
